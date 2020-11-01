@@ -29,8 +29,7 @@ body {
     width: fit-content;
 }
 .shopnow {
-    position: relative;
-    top: 50%;    
+    margin: 300px 0;
 }
 .shop-now-button {
     background: grey;
