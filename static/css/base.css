@@ -36,6 +36,9 @@ body {
     color: white;
     min-width: 260px;
 }
+.main-header {
+    color: white;
+}
 
 .btn-black {
     background: black;
